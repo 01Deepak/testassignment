@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/01Deepak/testassignment/static/css/main.b83ba8f7.css",
-    "main.js": "/01Deepak/testassignment/static/js/main.1dcb6fc3.js",
-    "static/js/787.0d23cc28.chunk.js": "/01Deepak/testassignment/static/js/787.0d23cc28.chunk.js",
-    "static/media/logo.svg": "/01Deepak/testassignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/01Deepak/testassignment/index.html",
-    "main.b83ba8f7.css.map": "/01Deepak/testassignment/static/css/main.b83ba8f7.css.map",
-    "main.1dcb6fc3.js.map": "/01Deepak/testassignment/static/js/main.1dcb6fc3.js.map",
-    "787.0d23cc28.chunk.js.map": "/01Deepak/testassignment/static/js/787.0d23cc28.chunk.js.map"
+    "main.css": "/testassignment/static/css/main.b83ba8f7.css",
+    "main.js": "/testassignment/static/js/main.a90f5975.js",
+    "static/js/787.0d23cc28.chunk.js": "/testassignment/static/js/787.0d23cc28.chunk.js",
+    "static/media/logo.svg": "/testassignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/testassignment/index.html",
+    "main.b83ba8f7.css.map": "/testassignment/static/css/main.b83ba8f7.css.map",
+    "main.a90f5975.js.map": "/testassignment/static/js/main.a90f5975.js.map",
+    "787.0d23cc28.chunk.js.map": "/testassignment/static/js/787.0d23cc28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b83ba8f7.css",
-    "static/js/main.1dcb6fc3.js"
+    "static/js/main.a90f5975.js"
   ]
 }
