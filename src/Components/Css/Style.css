@@ -1,0 +1,31 @@
+.formContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.addMargin {
+  margin: 50px 0;
+}
+
+.tableStyle {
+  height: 423px;
+  width: 55%;
+  margin: auto;
+}
+
+@media screen and (max-width: 900px) {
+  .tableStyle {
+    height: 423px;
+    width: 80%;
+    margin: auto;
+  }
+}
+@media screen and (max-width: 450px) {
+  .tableStyle {
+    height: 423px;
+    width: 100%;
+    margin: auto;
+  }
+}
